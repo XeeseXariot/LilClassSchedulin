@@ -49,7 +49,7 @@ python --version
 ### 3. Clone and enter the repo
 
 ```powershell
-git clone https://github.com/CheeseChariot/LilClassSchedulin.git
+git clone https://github.com/XeeseXariot/LilClassSchedulin.git
 Set-Location .\LilClassSchedulin
 ```
 
